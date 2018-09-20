@@ -1,0 +1,9 @@
+body {
+  font-size: 20px;
+  font-family: 'PingFang SC','Microsoft YaHei','Helvetica Neue',Helvetica,STHeitiSC-Light,Arial,sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1200px;
+}
